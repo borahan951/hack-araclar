@@ -11,4 +11,4 @@ virtualenv venv && source venv/bin/activate
 
 pip install -r requirements.txt
 
-python hack-araclar.py
+python hackbox.py
